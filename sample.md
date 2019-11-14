@@ -1,7 +1,7 @@
 ---
 title: Sample Title for sample.md
 layout: default
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 markdown: kramdown
 filename: sample.md
 ---
