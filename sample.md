@@ -1,6 +1,6 @@
 ---
 title: Sample Title
-layout: jekyll-theme-leap-day
+layout: default
 theme: jekyll-theme-leap-day
 markdown: kramdown
 filename: sample.md
