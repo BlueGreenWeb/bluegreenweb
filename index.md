@@ -1,3 +1,12 @@
+---
+title: Sample Title
+layout: default
+theme: jekyll-theme-leap-day
+markdown: kramdown
+filename: index.md
+---
+
+
 *This text will be italic*
 _This will also be italic_
 
