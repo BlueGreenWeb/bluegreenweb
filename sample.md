@@ -1,5 +1,5 @@
 ---
-title: Sample Title
+title: Sample Title for sample.md
 layout: default
 theme: jekyll-theme-leap-day
 markdown: kramdown
